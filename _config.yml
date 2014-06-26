@@ -1,3 +1,4 @@
 markdown: redcarpet
 exclude: ["Gemfile", "Gemfile.lock"]
 paginate: 3
+baseurl: /
