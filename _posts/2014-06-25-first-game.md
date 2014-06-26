@@ -17,11 +17,11 @@ layout: default
 
 ###Game Pattern: Choice
 * As well as many other good games, this game forces you to __choose__ one action over another.
-* When you play the game(while enemies are reaching), you have [variables](#) like your money in a game.
+* When you play the game(while enemies are reaching), you have [variables]({% post_url 2014-06-26-Variables-Game-Pattern %}) like your money in a game.
 * Now the choice is, how you allocate this money.
 * Typically, you have variety of 'units' that will attack enemies. Choosing one over others is a player's choice.
 * Another easier option some of these games offer is [level](#) up, which will improve (for example) your money increase rate.
-* Depending on how well you allocate the [variables](#) to those choices, your game result in [win or lose](#).
+* Depending on how well you allocate the [variables]({% post_url 2014-06-26-Variables-Game-Pattern %}) to those choices, your game result in [win or lose](#).
 
 ##Now It's your turn
 * what's your idea on making a great 'tower defence' game?
