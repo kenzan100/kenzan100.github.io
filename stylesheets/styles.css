@@ -12,6 +12,10 @@ h1, h2, h3, h4, h5, h6 {
   margin:0 0 20px;
 }
 
+h4.list_header{
+  margin: 0;
+}
+
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
@@ -103,7 +107,7 @@ header {
 
 header ul {
   list-style:none;
-  height:40px;
+  /* height:40px; */
 
   padding:0;
 
@@ -125,7 +129,7 @@ header li {
   /* width:89px; */
   /* float:left; */
   /* border-right:1px solid #d2d2d2; */
-  height:40px;
+  height:25px;
 }
 
 header ul a {
@@ -133,9 +137,9 @@ header ul a {
   /* font-size:11px; */
   color:#999;
   display:block;
-  text-align:center;
+  /* text-align:center; */
   padding-top:6px;
-  height:40px;
+  /* height:40px; */
 }
 
 strong {
@@ -144,13 +148,13 @@ strong {
 }
 
 header ul li + li {
-  width:88px;
+  /* width:88px; */
   border-left:1px solid #fff;
 }
 
 header ul li + li + li {
   border-right:none;
-  width:89px;
+  /* width:89px; */
 }
 
 header ul a strong {
