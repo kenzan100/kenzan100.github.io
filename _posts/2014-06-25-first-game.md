@@ -21,7 +21,7 @@ layout: default
 * When you play the game(while enemies are reaching), you have [variables]({% post_url 2014-06-26-Variables-Game-Pattern %}) like your money in a game.
 * Now the choice is, how you allocate this money.
 * Typically, you have variety of 'units' that will attack enemies. Choosing one over others is a player's choice.
-* Another easier option some of these games offer is [level](#) up, which will improve (for example) your money increase rate.
+* Another easier option some of these games offer is [level]({% post_url 2014-06-30-Levels-Game-Pattern %}) up, which will improve (for example) your money increase rate.
 * Depending on how well you allocate the [variables]({% post_url 2014-06-26-Variables-Game-Pattern %}) to those choices, your game result in [win or lose](#).
 
 ##Now It's your turn
