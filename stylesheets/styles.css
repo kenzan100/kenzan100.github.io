@@ -187,6 +187,11 @@ footer {
   bottom:50px;
 }
 
+#footer span{
+  vertical-align: bottom;
+  line-height: 38px;
+}
+
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {
